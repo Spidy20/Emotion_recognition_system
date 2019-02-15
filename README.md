@@ -1,11 +1,21 @@
-# Face_Sentiment_analysis
-This program can easily recognise your emotions by your webcam
+##  Emotion😂😥😡😱 Recognition system
 
-Now you have to create "images" folder in your project,create emotions folder in it
-place atleast 100+ images in every emotion folder
+### Code Requirements
+- Tensorflow
+- Download my repository
+- Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and
+  converts into Grayscale images(For more accurate prediction))
 
-aftet that crop all images with my face_crop.py
 
-than copy my all code from my Github
-In last paster trainer code in CMD,if you get 70+ accuracy than it will work succesful
-star my repository, and Follow me
+### What steps you have to follow??
+- Download my repository 
+- Make 'Images' folder in your project ,make subfolder for emotions like Happy,sad,Angry.
+- After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
+- It will take training aaround 20-25 minutes so keep patience.
+- After training it will create two files 'retrained_graph.pb' & 'retrained_labels.txt'
+- Now run 'recognition_webcam.py'.
+- If you want to fetch video from your mobile cam than use  	'androdi_recognition.py',but you have to install IPWebcam app in your system
+  and replace your server URL with my URL
+- That's all 
+
+## Just follow☝️ me and Star⭐ my repository 
