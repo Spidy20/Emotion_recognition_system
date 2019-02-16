@@ -20,4 +20,9 @@
   and replace your server URL with my URL
 - That's all 
 
+### How it works? See:)
+
+<img src="https://github.com/Spidy20/Emotion_recognition_system/blob/master/Emotion_recognition.gif">
+
+
 ## Just follow☝️ me and Star⭐ my repository 
