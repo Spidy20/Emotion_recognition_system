@@ -2,6 +2,7 @@
 
 ### Code Requirements
 - Tensorflow
+  Installation code:- pip install tensorflow
 - Download my repository
 - Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and
   converts into Grayscale images(For more accurate prediction))
@@ -23,6 +24,12 @@
 ### How it works? See:)
 
 <img src="https://github.com/Spidy20/Emotion_recognition_system/blob/master/Emotion_recognition.gif">
+
+### Notes
+- It will require high processing power(I have 8 GB RAM & 2 GB GC)
+- If you think it will recognise expression just like humans,than leave it ,its not possible.
+- Download 300 Images for every expression(you can use batch downloader)
+- Noisy image can reduce your accuracy so quality of images matter.
 
 
 ## Just follow☝️ me and Star⭐ my repository 
