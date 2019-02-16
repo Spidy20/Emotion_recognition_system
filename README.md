@@ -16,7 +16,7 @@
 - After that you have to create model, for that copy code from code.txt file and open CMD in your project folder and paste it & enter
 - It will take training aaround 20-25 minutes so keep patience.
 - After training it will create two files 'retrained_graph.pb' & 'retrained_labels.txt'
-- Now run 'recognition_webcam.py'.
+- Now run `recognition_webcam.py`.
 - If you want to fetch video from your mobile cam than use  	'androdi_recognition.py',but you have to install IPWebcam app in your system
   and replace your server URL with my URL
 - That's all 
