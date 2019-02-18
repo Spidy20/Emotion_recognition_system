@@ -4,8 +4,8 @@
 - Tensorflow
   Installation code:- `pip install tensorflow`
 - Download my repository
-- Own Expression dataset(NOTE: You can downlaod expression images from google, or you can record your video make diffrent expression ,and
-  converts into Grayscale images(For more accurate prediction))
+- Own Expression dataset(`Note: You can downlaod expression images from google, or you can record your video make diffrent expression ,and
+  `converts into Grayscale images(For more accurate prediction))
 
 
 ### What steps you have to follow??
